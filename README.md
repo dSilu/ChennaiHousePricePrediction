@@ -7,7 +7,16 @@ Chennai is India's one of largest employment hub. To find a house for everyone i
 
 For a better experience check the notebook @ [NBViewer](https://nbviewer.org/github/dSilu/ChennaiHousePricePrediction/blob/master/houseprice.ipynb)
 
-Findings:
+### Tools: 
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### Findings:
 1. Listed houses in the dataset were built in between 1950 and 2010, and sold in between 2004 to 2014.
 2. Hose price was record breakingly decreased during the year of 2008 to 2010 because of economical crisis in global market and natural calamities.
 3. Highest number of houses were sold in 2010-11. Houses are ranges in between INR 20Lakh to more than 2 Crore.
